@@ -1,5 +1,9 @@
 # rulespec-us-ny
 
+This repository is archived. Its canonical content now lives in
+[`TheAxiomFoundation/rulespec-us`](https://github.com/TheAxiomFoundation/rulespec-us)
+under `us-ny/`; keep all future RuleSpec work there.
+
 New York RuleSpec encodings.
 
 ## Contents
@@ -15,7 +19,7 @@ Use RuleSpec YAML for encoded rules. Do not add source text, source registry
 sidecars, generated source payloads, singular rule roots, separate
 parameter/test fixture files, or generated formula artifacts.
 
-Federal materials belong in `rulespec-us`. New York-administered state and city materials belong here.
+In the canonical monorepo, New York-administered state and city materials live under `us-ny/`; shared federal materials live at the country root.
 
 ## PolicyEngine ECPS SNAP Comparison
 
